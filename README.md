@@ -1,5 +1,11 @@
 # Predictive Modeling for Air Quality Monitoring
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-green?logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-darkgreen)](https://xgboost.readthedocs.io/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 ## 🌬️ Project Overview
 This project tackles a regression problem to predict CO2 concentrations based on sensor data from an air quality monitoring device. The goal was to build a robust machine learning model that can accurately estimate CO2 levels, which is crucial for environmental monitoring and public health. This project was developed as part of a data science competition on Zindi Africa.
 
