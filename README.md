@@ -57,9 +57,9 @@ The project followed a structured machine learning workflow:
 ```
 air-quality-prediction-ml/
 ├── data/                    # Directory for dataset (add .gitignore)
+├── README.md               # This file
 ├── air_quality_prediction.ipynb  # Main Jupyter Notebook
-├── requirements.txt         # Python dependencies
-└── README.md               # This file
+└── requirements.txt         # Python dependencies
 ```
 
 ## 👨‍💻 Author
