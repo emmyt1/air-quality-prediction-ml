@@ -63,7 +63,7 @@ air-quality-prediction-ml/
 ```
 
 ## 👨‍💻 Author
-**Your Name**
+**Oluwaseun E. Olubunmi**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ooluwaseun/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/emmyt1)
 
